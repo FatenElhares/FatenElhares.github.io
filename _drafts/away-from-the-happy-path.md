@@ -1,2 +1,0 @@
-- programming does not happen on the happy path.
-- error handling is a business decision first.
